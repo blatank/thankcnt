@@ -1,0 +1,19 @@
+{
+  "name": "thankcnt",
+  "version": "1.0.0",
+  "description": "- ある本に「ありがとう」を1日500回言えと書いてあるのですが、**数を数えるのが面倒くさい**ので作りました。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blatank/thankcnt.git"
+  },
+  "author": "blatank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blatank/thankcnt/issues"
+  },
+  "homepage": "https://github.com/blatank/thankcnt#readme"
+}
