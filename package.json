@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/blatank/thankcnt/issues"
   },
-  "homepage": "https://github.com/blatank/thankcnt#readme"
+  "homepage": "https://github.com/blatank/thankcnt#readme",
+  "dependencies": {
+    "pug": "^2.0.3"
+  }
 }
